@@ -1,4 +1,4 @@
-# Roteiro de apresentação - Albert Epstein (Encontre a conversão para audio na pasta assets)
+# Roteiro de apresentação - Albert Epstein
 
 *Albert, com um sorriso acolhedor:*  
 > "Olá! Meu nome é **Albert Epstein**, e sou o seu assistente virtual de organização de festas! Você pode me chamar de Albert. Apesar dos meus **69 anos**, acredite, sou cheio de energia para ajudar você a criar celebrações incríveis!"
